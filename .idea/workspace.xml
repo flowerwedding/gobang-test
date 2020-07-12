@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41c770fa-35a0-4b4d-8b95-f4f64d7d831c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\GO2" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1cu4a5sNKwd8kDnrgBuFymBXfzw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoProjects\src\gobang-test\game" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build test">
+    <configuration name="go build gobang-test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gobang-test" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="gobang-test" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="test" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build test" />
+        <item itemvalue="Go Build.go build gobang-test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <proxy>https://goproxy.cn</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="313" y="123" key="#Go_Modules_(vgo)" timestamp="1594509793730">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="313" y="123" key="#Go_Modules_(vgo)/0.0.1440.920@0.0.1440.920" timestamp="1594509793730" />
+    <state x="501" y="219" key="FileChooserDialogImpl" timestamp="1594509599026">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="219" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1594509599026" />
+    <state width="1397" height="103" key="GridCell.Tab.0.bottom" timestamp="1594536848668">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="103" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1594536848668" />
+    <state width="1397" height="103" key="GridCell.Tab.0.center" timestamp="1594536848668">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="103" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1594536848668" />
+    <state width="1397" height="103" key="GridCell.Tab.0.left" timestamp="1594536848667">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="103" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1594536848667" />
+    <state width="1397" height="103" key="GridCell.Tab.0.right" timestamp="1594536848668">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="103" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1594536848668" />
+    <state x="225" y="0" key="SettingsEditor" timestamp="1594510334867">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="225" y="0" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1594510334867" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1594534661108">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1594534661108" />
+  </component>
+</project>
